@@ -5,7 +5,7 @@ title: 'PLEX: Making the Most of the Available Data for Robotic Manipulation Pre
 <style>thead { display: none; }</style>
 
 <p align="center">
-  <img src="https://mhauskn.github.io/mocapact.github.io/assets/MoCapAct.png" alt="overview" width="70%">
+  <img src="https://user-images.githubusercontent.com/142258764/260571799-a4b6a97d-d694-4c86-9abe-daf636e23c41.png" alt="overview" width="70%">
 </p>
 
 ## Abstract
@@ -15,16 +15,7 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 ## Videos
 <table>
 <tr>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_016_22-0-82.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_038_03-0-208.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_015_04-1036-1217.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_061_01-172-377.mp4" type="video/mp4" controls></video></td>
-</tr>
-<tr>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_049_07-0-127.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_049_02-405-575.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_090_06-0-170.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://mhauskn.github.io/mocapact.github.io/assets/clip_expert/deterministic/CMU_075_09-0-203.mp4" type="video/mp4" controls></video></td>
+  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260572315-ea1c03c9-8631-465e-a275-6bc470550738.mp4" type="video/mp4" controls></video></td>
 </tr>
 </table>
 
