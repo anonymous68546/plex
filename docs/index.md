@@ -1,11 +1,11 @@
 ---
-title: 'PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining' layout: default
+title: PLEX: 'Making the Most of the Available Data for Robotic Manipulation Pretraining' layout: default
 ---
 
 <style>thead { display: none; }</style>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/142258764/260571799-a4b6a97d-d694-4c86-9abe-daf636e23c41.png" alt="overview" width="70%">
+  <img src="https://user-images.githubusercontent.com/142258764/260860809-31243ea3-b7ad-47dd-baa8-66bdc0a1ec2f.png" alt="overview" width="70%">
 </p>
 
 ## Abstract
@@ -18,18 +18,3 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
   <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260572315-ea1c03c9-8631-465e-a275-6bc470550738.mp4" type="video/mp4" controls></video></td>
 </tr>
 </table>
-
-## Citation
-
-If you reference or use PLEX in your research, please cite:
-
-```bibtex
-@misc{thomas2023plex,
-      title={PLEX: Making the Most of the Available Data for Robotic Manipulation Pretraining}, 
-      author={Garrett Thomas and Ching-An Cheng and Ricky Loynd and Felipe Vieira Frujeri Vibhav Vineet and Mihai Jalobeanu and Andrey Kolobov},
-      year={2023},
-      eprint={2303.08789},
-      archivePrefix={arXiv},
-      primaryClass={cs.RO}
-}
-```
