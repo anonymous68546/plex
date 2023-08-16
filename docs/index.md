@@ -50,9 +50,9 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 
 <tr>
   <td>hand-insert-v2</td>
-  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905385-c9dd749d-9a0d-4da6-8999-f7e76bf46f14.mp4" type="video/mp4" controls></video></td>
-  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905403-4c4a201f-45da-41eb-8b7f-fa216750ec21.mp4" type="video/mp4" controls></video></td>
-  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905394-088a3777-c826-4163-a5e5-26ea68b532e0.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260906002-be683bae-31c4-4cbd-9a09-8380eb54b0d2.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260906011-81cfcc20-4d1f-43fd-a95d-2f5555d9e2d7.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260906021-8248b3e2-3ce6-4cf9-b809-b899d1cc503b.mp4" type="video/mp4" controls></video></td>
 </tr>
 
 </table>
