@@ -41,6 +41,20 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903804-2fce55ec-40f5-4b17-a908-91303f7d6d20.mp4" type="video/mp4" controls></video></td>
 </tr>
 
+<tr>
+  <td>door-unlock-v2</td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905385-c9dd749d-9a0d-4da6-8999-f7e76bf46f14.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905403-4c4a201f-45da-41eb-8b7f-fa216750ec21.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905394-088a3777-c826-4163-a5e5-26ea68b532e0.mp4" type="video/mp4" controls></video></td>
+</tr>
+
+<tr>
+  <td>hand-insert-v2</td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905385-c9dd749d-9a0d-4da6-8999-f7e76bf46f14.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905403-4c4a201f-45da-41eb-8b7f-fa216750ec21.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260905394-088a3777-c826-4163-a5e5-26ea68b532e0.mp4" type="video/mp4" controls></video></td>
+</tr>
+
 </table>
 
 ## Tasks on a real WidowX250 robot
