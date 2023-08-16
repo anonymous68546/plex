@@ -46,14 +46,19 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 ## Tasks on a real WidowX250 robot
 <table>
 <tr>
+  <td>pick-and-place</td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260894005-6a1454e6-8c53-4326-ac9b-1cba49d5c033.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260894017-b980df07-4422-4fa8-95fb-be4d577a5c66.mp4" type="video/mp4" controls></video></td>
 </tr>
+  
 <tr>
+  <td>push-into-sink</td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260894202-8bb2a171-0eff-4e86-869e-b05c40d2d8ee.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260894218-c2959ac5-3582-48e3-a626-43be0ac4ecc7.mp4" type="video/mp4" controls></video></td>
 </tr>
+
 <tr>
+  <td>lift-pan</td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260894261-cbc30fb3-1f4f-408b-ac33-f14557e16823.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260894263-322e5b59-9f3e-42a3-a4ab-a8eaccbe1920.mp4" type="video/mp4" controls></video></td>
 </tr>
