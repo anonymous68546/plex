@@ -12,11 +12,28 @@ title: PLEX: 'Making the Most of the Available Data for Robotic Manipulation Pre
 A rich representation is key to general robotic manipulation, but existing approaches to learning one require a lot of multimodal demonstrations.
 In this work we propose PLEX, a transformer-based architecture that learns from a small amount of task-agnostic visuomotor trajectories accompanied by a much larger amount of task-conditioned object manipulation videos - a type of data that is available in quantity. The key insight behind PLEX is that visuomotor trajectories help induce a latent feature space and train a robot to execute task-agnostic manipulation routines, while diverse video-only demonstrations can efficiently teach the robot how to plan in this feature space for a wide variety of tasks. In contrast to most works on robotic manipulation pretraining, PLEX learns a generalizable sensorimotor multi-task policy, not just an observational representation. We also show that using relative positional encoding in PLEX's transformers greatly helps PLEX in low-data regimes when learning from human-collected demonstrations. Experiments showcase PLEX's generalization on the Meta-World-v2 benchmark and SOTA performance in challenging Robosuite environments.
 
-## Videos
+## MetaWorld playdata videos
 <table>
 <tr>
   <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894005-6a1454e6-8c53-4326-ac9b-1cba49d5c033.mp4" type="video/mp4" controls></video></td>
   <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894017-b980df07-4422-4fa8-95fb-be4d577a5c66.mp4" type="video/mp4" controls></video></td>
+</tr>
+<tr>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894202-8bb2a171-0eff-4e86-869e-b05c40d2d8ee.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894218-c2959ac5-3582-48e3-a626-43be0ac4ecc7.mp4" type="video/mp4" controls></video></td>
+</tr>
+<tr>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894261-cbc30fb3-1f4f-408b-ac33-f14557e16823.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894263-322e5b59-9f3e-42a3-a4ab-a8eaccbe1920.mp4" type="video/mp4" controls></video></td>
+</tr>
+</table>
+
+## Tasks on a real WidowX250 robot
+<table>
+<tr>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894005-6a1454e6-8c53-4326-ac9b-1cba49d5c033.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894017-b980df07-4422-4fa8-95fb-be4d577a5c66.mp4" type="video/mp4" controls></video></td>
+</tr>
 <tr>
   <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894202-8bb2a171-0eff-4e86-869e-b05c40d2d8ee.mp4" type="video/mp4" controls></video></td>
   <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894218-c2959ac5-3582-48e3-a626-43be0ac4ecc7.mp4" type="video/mp4" controls></video></td>
