@@ -33,6 +33,12 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902032-15574a1c-604c-4882-85e9-a6d7e37e8d51.mp4" type="video/mp4" controls></video></td>
 </tr>
 
+<tr>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903783-a1a7c920-caaf-404d-b80c-0306baf26f7f.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903795-7d839444-ea0c-4905-9bd4-1a49f5362f7e.mp4" type="video/mp4" controls></video></td>
+  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903804-2fce55ec-40f5-4b17-a908-91303f7d6d20.mp4" type="video/mp4" controls></video></td>
+</tr>
+
 </table>
 </center>
 
