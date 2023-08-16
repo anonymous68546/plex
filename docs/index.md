@@ -21,9 +21,9 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 ## MetaWorld playdata videos
 <table>
 <tr>
-  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260901999-29e87c9e-f11f-44d6-8850-144fad81852a.mp4" type="video/mp4" controls></video></td>
-  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902015-3d82c14d-2b36-4015-9504-cfb99276e09b.mp4" type="video/mp4" controls></video></td>
-  <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902024-e61f551c-c1f7-42ab-8ec0-42bddf56a63f.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260901999-29e87c9e-f11f-44d6-8850-144fad81852a.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260902015-3d82c14d-2b36-4015-9504-cfb99276e09b.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260902024-e61f551c-c1f7-42ab-8ec0-42bddf56a63f.mp4" type="video/mp4" controls></video></td>
 </tr>
 </table>
 
