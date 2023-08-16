@@ -15,14 +15,14 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 ## Videos
 <table>
 <tr>
-  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260894005-6a1454e6-8c53-4326-ac9b-1cba49d5c033.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260894017-b980df07-4422-4fa8-95fb-be4d577a5c66.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894005-6a1454e6-8c53-4326-ac9b-1cba49d5c033.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894017-b980df07-4422-4fa8-95fb-be4d577a5c66.mp4" type="video/mp4" controls></video></td>
 <tr>
-  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260894202-8bb2a171-0eff-4e86-869e-b05c40d2d8ee.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260894218-c2959ac5-3582-48e3-a626-43be0ac4ecc7.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894202-8bb2a171-0eff-4e86-869e-b05c40d2d8ee.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894218-c2959ac5-3582-48e3-a626-43be0ac4ecc7.mp4" type="video/mp4" controls></video></td>
 </tr>
 <tr>
-  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260894261-cbc30fb3-1f4f-408b-ac33-f14557e16823.mp4" type="video/mp4" controls></video></td>
-  <td><video width="480" height="360" src="https://user-images.githubusercontent.com/142258764/260894263-322e5b59-9f3e-42a3-a4ab-a8eaccbe1920.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894261-cbc30fb3-1f4f-408b-ac33-f14557e16823.mp4" type="video/mp4" controls></video></td>
+  <td><video width="84" height="84" src="https://user-images.githubusercontent.com/142258764/260894263-322e5b59-9f3e-42a3-a4ab-a8eaccbe1920.mp4" type="video/mp4" controls></video></td>
 </tr>
 </table>
