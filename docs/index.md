@@ -19,7 +19,6 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 
 
 ## MetaWorld playdata videos
-<center>
 <table align="center">
 <tr>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260901999-29e87c9e-f11f-44d6-8850-144fad81852a.mp4" type="video/mp4" controls></video></td>
@@ -40,7 +39,6 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 </tr>
 
 </table>
-</center>
 
 ## Tasks on a real WidowX250 robot
 <table>
