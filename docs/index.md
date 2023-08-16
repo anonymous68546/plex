@@ -21,18 +21,21 @@ In this work we propose PLEX, a transformer-based architecture that learns from 
 ## MetaWorld playdata videos
 <table align="center">
 <tr>
+  <td>bin-picking-v2</td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260901999-29e87c9e-f11f-44d6-8850-144fad81852a.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902015-3d82c14d-2b36-4015-9504-cfb99276e09b.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902024-e61f551c-c1f7-42ab-8ec0-42bddf56a63f.mp4" type="video/mp4" controls></video></td>
 </tr>
 
 <tr>
+  <td>box-close-v2</td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902901-6757d132-8d9a-419d-8dbc-325366ab972a.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902009-812055b8-10e8-4249-859a-7276ab42bea8.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260902032-15574a1c-604c-4882-85e9-a6d7e37e8d51.mp4" type="video/mp4" controls></video></td>
 </tr>
 
 <tr>
+  <td>door-lock-v2</td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903783-a1a7c920-caaf-404d-b80c-0306baf26f7f.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903795-7d839444-ea0c-4905-9bd4-1a49f5362f7e.mp4" type="video/mp4" controls></video></td>
   <td><video width="168" height="168" src="https://user-images.githubusercontent.com/142258764/260903804-2fce55ec-40f5-4b17-a908-91303f7d6d20.mp4" type="video/mp4" controls></video></td>
